@@ -22,8 +22,8 @@
 
   ## Usage
   --------
-![]
-(https://github.com/eymerin/README-Generator/blob/main/README%20Generator%20demo.gif)
+![(https://github.com/eymerin/README-Generator/blob/main/README%20Generator%20demo.gif)]
+
 
   ## Contribution
   ---------------
