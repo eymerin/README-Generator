@@ -22,6 +22,7 @@
 
   ## Usage
   --------
+  
   After running node index.js, answer the prompts with information about your project.
   
 ![](https://github.com/eymerin/README-Generator/blob/main/README%20Generator%20demo.gif)
